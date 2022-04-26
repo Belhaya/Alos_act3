@@ -1,0 +1,30 @@
+[
+    {
+      "id": 0,
+      "type_entrainement":"crossfit",
+       "exercices_populaires": "1 squats avec une barre,2 soulevés des poids, 3 exercices avec battle rope et 4 sits up"
+                 
+    },
+       
+    {
+      "id": 1,
+      "type_entrainement":"cardio",
+      "exercices_populaires": "1 marcher et courir, 2 fentes, 3 sauter sur trampolineet 4 vélo et vélo d’appartement"
+                
+    },
+       
+    {
+      "id": 2,
+      "type_entrainement":"fonctionnel",
+      "exercices_populaires": "1 grosses et petites boules, 2 plates-formes d’équilibrage et 3 bandes TRX"
+            
+    },
+       
+    {
+      "id": 3,
+      "type_entrainement":"circuit",
+      "exercices_populaires": "1 bascule sur une jambe ,2 sauts avec une corde à sauter, 3 squats et 4 pompes"
+              
+    }
+       
+]
