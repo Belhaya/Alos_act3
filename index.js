@@ -39,8 +39,6 @@ app.use("/api", routes);
 // chargement de file users 
 
 
-
-
 app.use('/',totoro.rain({
     // defition de version 
     v1:{
@@ -554,19 +552,6 @@ app.use('/',totoro.rain({
 
 
 }))
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
