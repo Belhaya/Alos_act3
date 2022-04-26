@@ -1,0 +1,46 @@
+[ 
+        {
+          "id": 0,
+          "type_régime": "végétarien",
+          "période": "2 mois",
+          "menu1": "Petit_déjeuner: Mousse choco-noisettes - Déjeuner: Soupe de maïs à l’indienne - Dîner: Salade de seigle aux oranges sanguines",
+          "menu2": "Petit_déjeuner: Carottes à la marocaine - Déjeuner: Soupe de tortillas au quinoa - Dîner: Soupe de tortillas au quinoa, 4)Pommes au four à la québécoise",
+          "menu3": "Petit_déjeuner: Salade d’endives, pommes et mimolette - Déjeuner: Salade de chèvres chauds aux poires - Dîner: Salade de fruits d’hiver ",
+          "menu4": "Petit_déjeuner: Coleslaw - Déjeuner: Gratin d’haricots blancs à la tomat - Dîner: Oranges rôties au four" 
+        },
+       
+        {
+          "id": 1,
+          "type_régime": "hyperprotéine",
+          "période": "15 jours",
+          "menu1": "Petit_déjeuner: café, thé sans sucre, 1 yaourt au soja, 1/5 de baguette tradition,1 noix de beurre - Déjeuner: salade composée (huile dolive, huile de colza), 1 blanc de volaille grillé, haricots verts, 1 petit-suisse - Dîner: 1 dos de merlan, tomates, 1 portion de fromage de chèvre frais",
+          "menu2": "Petit_déjeuner: café, thé non sucré, 1 fromage blanc au soja, 1/5 de baguette tradition, 1 noix de beurre - Déjeuner: 1 salade verte, 1 dos de cabillaud, 1 portion de quinoa, 1 petit-suisse - Dîner: 1 tranche de jambon, ratatouille, 1 Carré frais 0 %",
+          "menu3": "Petit_déjeuner: café, thé non sucré, 1 fromage blanc, 1/5 de baguette tradition, 1 noix de beurre - Déjeuner: concombre, blanc de poulet, champignons, 1 yaourt - Dîner: 1 limande sole, lentilles, 1 yaourt nature",
+          "menu4": "Petit_déjeuner:  thé ou café non sucré, 1 petit-suisse nature, 1/5 de baguette tradition, 1 noix de beurre - Déjeuner: radis, 1 noix de beurre, épinards, 1 yaourt au soja - Dîner: 1 steack de soja, 1 purée daubergines, 1 fromage blanc au soja"       
+        },
+       
+        {
+          "id": 2,
+          "type_régime": "sans sel",
+          "période": "3 mois",
+          "menu1": "Petit_déjeuner: Flocons d’avoine non raffinés avec du lait demi-écrémé + pruneaux Banane - Déjeuner: Gaspacho de betterave au vinaigre balsamique, filet mignon de porc aux oignons nouveaux, pâtes au quinoa, fromage blanc aux dés de poire et noix du Brésil - Dîner: Salade de riz, crevettes, avocat, champignons crus + vinaigrette aux paillettes d’algues+Yaourt nature + compote pomme fraise ",
+          "menu2": "Petit_déjeuner: Thé vert, tartines de pain complet + miel d’acacia, yaourt au bifidus + dés de kiwi - Déjeuner: Soupe vietnamienne de nouilles de riz, brocolis et cabillaud à la coriandre, Compote pomme-rhubarbe - Dîner: Poêlée de légumes primeurs aux herbes et huile d’olive, gâteau au yaourt citron graines de pavot",
+          "menu3": "Petit_déjeuner: Smoothie carotte + pomme acidulée + citron + gingembre,pain d’épice maison - Déjeuner: Salade de jeunes pousses, vinaigrette citronnée, aiguillettes de canard au miel et sésame,Purée de carottes au thym,Ananas frais - Dîner: Curry de lentilles vertes et légumes printaniers,Papillote de banane à l’orange, sirop d’érable et noix de Pécan",
+          "menu4": "Petit_déjeuner: Infusion,1 pomelo,Œuf coque, mouillettes de pain aux céréales - Déjeuner: Papillote de saumon aux asperges vertes, pommes de terre vapeur,Fromage blanc + salade de fruits frais à la menthe - Dîner: Salade de fèves aux poivrons,Crème renversée à la vanille"  
+        },
+       
+        {
+          "id": 3,
+          "type_régime": "hypocalorique",
+          "période": "1 mois",
+          "menu1": "Petit_déjeuner: une boisson chaude (café, thé ou tisane) sans sucre et 1/2 pamplemousse, orange ou autre agrume - Déjeuner: 150 g de steak ou un filet de poulet ou de dinde grillé, salade verte avec des tomates à volonté, une pomme - Dîner: 2 œufs durs ou 150 g de blanc de poulet ou de dinde, haricots verts, épinards ou brocolis à volonté, 1/2 pamplemousse, orange ou autre agrume.",
+          "menu2": "Petit_déjeuner: une boisson chaude (café, thé ou tisane) sans sucre et 1/2 pamplemousse, orange ou autre agrume - Déjeuner: 150 g de steak ou un filet de poulet ou de dinde grillé, salade verte, un grand verre de jus de tomate a assaisonner avec du tabasco ou de sel de céleri si nécessaire - Dîner: choux-fleur ou courgettes à volonté, haricots verts, épinards ou brocolis aussi à volonté, compote de pommes sans sucre.",
+          "menu3": "Petit_déjeuner: une boisson chaude (café, thé ou tisane) sans sucre et 1/2 pamplemousse, orange ou autre agrume - Déjeuner: 150 g de steak ou un filet de poulet ou de dinde grillé, salade verte à volonté, une pomme - Dîner: 150 à 200 g de poulet grillé, tomate à l’étuvée à volonté (vous pouvez les assaisonner avec des épices ou des aromates), un grand verre de jus de pruneaux.",
+          "menu4": "Petit_déjeuner: une boisson chaude (café, thé ou tisane) sans sucre et 1/2 pamplemousse, orange ou autre agrume - Déjeuner: 2 œufs durs ou 150 g de dinde, haricots verts, épinards ou brocolis à volonté, un verre de jus de tomate - Dîner: 150 g de steak ou un filet de poulet ou de dinde grillé, salade verte à volonté, un verre de jus d’ananas sans sucre."
+                   
+          }
+               
+              
+          
+       
+    ]
